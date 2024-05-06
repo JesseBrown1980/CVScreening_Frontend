@@ -1,4 +1,3 @@
-
 .App {
   text-align: center;
 }
@@ -36,4 +35,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.inputarea:hover {
+  background-color: lightgray;
 }
